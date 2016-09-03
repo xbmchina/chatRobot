@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Robot</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="welcome_tips">
+        <item >你好，很久没见你了。</item>
+        <item >你好，奴婢想你了。</item>
+        <item >你近来可好？</item>
+        <item >最近去哪了鬼混了，忘了人家</item>
+        <item >你终于出现了，还钱。。。</item>
+    </string-array>
+</resources>
